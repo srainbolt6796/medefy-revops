@@ -1,0 +1,8 @@
+{
+  "name": "medefy",
+  "owner": { "name": "Medefy RevOps" },
+  "description": "Medefy RevOps skills for Claude Cowork.",
+  "plugins": [
+    { "name": "medefy-revops", "source": "./plugins/medefy-revops", "description": "Territory analysis, deal handoff, and Medefy brand styling for the revenue team.", "version": "1.0.0", "author": { "name": "Medefy RevOps" } }
+  ]
+}
