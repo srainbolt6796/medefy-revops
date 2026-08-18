@@ -7,7 +7,7 @@
       "name": "medefy-revops",
       "source": "./plugins/medefy-revops",
       "description": "Territory analysis, deal handoff, and Medefy brand styling.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "author": { "name": "Medefy RevOps" }
     }
   ]
